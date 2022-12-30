@@ -1,0 +1,37 @@
+instagram account details
+
+Installing
+
+$ pkg update && upgrade
+
+$ pkg install git python
+
+$  git clone https://github.com/zxllkada/Get-instagram-users-info---Any-instagram-account
+
+$ cd Get-instagram-users-info-Any-instagram-account
+
+$ pip install -r requirements.txt
+
+
+Running
+
+
+$ cd Get-instagram-users-info-Any-instagram-account
+
+$ cd zxllkada
+
+$ cd Dump_Instagram_Information_ANY_ACCOUNT
+
+$ python3 InstaInfo_zxll.py
+
+   Or 
+
+ $ cd zxllkada
+
+ $ cd Dump_Instagram_Information_ANY_ACCOUNT
+
+ $ python3 InstaInfo_zxll.py
+
+                         Note 
+If anu account login asked create a fake account and login that account!
+For more queries t.me/masterolic
