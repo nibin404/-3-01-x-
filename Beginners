@@ -1,0 +1,48 @@
+Basic commands for beginners after installing termux app
+
+ NEEDED PACKAGES
+
+$ apt install
+
+$ apt update
+
+$ apt upgrade
+
+$ pkg install git
+
+$ pkg install python
+
+$ pkg install python2
+
+$ pkg install python3 
+
+$ pkg install php {tap to  copy }
+
+$ pkg install wget
+
+ OPTIONAL
+
+$ pkg install openssh
+
+$ pkg install httrack
+
+$ pkg install zip
+
+EXTRA PACKAGES 
+
+$ pkg install micro 
+
+$ pkg install nano
+
+$ pkg install fish 
+
+VUNERABILITY FINDER
+ 
+$ pkg install nmap
+
+
+FUN (PRANK HACK )
+
+$ pkg install cmatrix
+
+$ pkg install hollywood
